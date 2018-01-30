@@ -1,0 +1,8 @@
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\bin\Debug\netstandard2.0\Dal.deps.json
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\obj\Debug\netstandard2.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfoInputs.cache
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\obj\Debug\netstandard2.0\Dal.AssemblyInfo.cs
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\obj\Debug\netstandard2.0\Dal.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Dal\obj\Debug\netstandard2.0\Dal.pdb

@@ -1,0 +1,14 @@
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.deps.json
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.json
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.runtimeconfig.dev.json
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.pdb
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Bll.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Dal.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Bll.pdb
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Dal.pdb
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfoInputs.cache
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.dll
+C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.pdb
