@@ -1,9 +1,8 @@
 namespace Dal.Dominio
 {
-    public class ComputadorDTO
+    public class CompitadorSemDescricaoDTO
     {
         public string Nome  {get; set;}
-        public string descricao  {get; set;}
         public float preco  {get; set;}
     }
 }
