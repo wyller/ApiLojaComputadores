@@ -2680,11 +2680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\Dal.csproj",
+      "projectUniqueName": "c:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\Dal.csproj",
+      "projectPath": "c:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\Fepam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\obj\\",
+      "outputPath": "c:\\Users\\Fepam\\Desktop\\Treinamento\\Final Wave\\TestFinal\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
