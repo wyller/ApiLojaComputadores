@@ -8,6 +8,17 @@ namespace Dal.DAO
 {
     public class ComputadorDAO
     {
+        private static ComputadorDAO instance;
+
+        public static ComputadorDAO SingletonDAO()
+        {
+            if(instance == null)
+            {
+                instance = new ComputadorDAO();
+            }
+            return instance;
+        }
+
         public List<Computador> GelAll()
         {
             using(Contexto db = new Contexto())

@@ -1,0 +1,17 @@
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Test.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Test.pdb
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Bll.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Dal.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Dal.pdb
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\bin\Debug\netcoreapp2.0\Bll.pdb
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\obj\Debug\netcoreapp2.0\Test.dll
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Test\obj\Debug\netcoreapp2.0\Test.pdb

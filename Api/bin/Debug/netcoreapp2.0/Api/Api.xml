@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.ComputadorController.GetALL">
+            <summary>
+            Buscar todos os computadores no banco
+            </summary>
+            <returns>Uma lista de computadores</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.GetFind(System.Int32)">
+            <summary>
+            Busca especifica por ID
+            </summary>
+            <param name="id"></param>
+            <returns>Um computador</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.PostComp(Dal.Model.Computador)">
+            <summary>
+            Adicionar um computador
+            </summary>
+            <param name="computador"></param>
+            
+            <returns>O Computador já adicionado</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.PutComp(Dal.Model.Computador)">
+            <summary>
+            Alterar um computador
+            </summary>
+            <param name="computador"></param>
+            <returns>O Computador já alterado</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.DeleteComp(System.Int32)">
+            <summary>
+            Deletar um computador pelo ID
+            </summary>
+            <param name="id"></param>
+            <returns>O computador removido</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.GetCompPrecoAVista(System.Int32)">
+            <summary>
+            Buscar o computador com o preço a vista com desconto de 10%
+            </summary>
+            <param name="id"></param>
+            <returns>O computador com o valor já com o desconto</returns>
+        </member>
+        <member name="M:Api.Controllers.ComputadorController.GetCompPrecoAPraso(System.Int32,System.Int32)">
+            <summary>
+            Buscar o computador com o preço parcelado com acrescimo de 2% por mes
+            </summary>
+            <param name="id"></param>
+            <param name="parcelas"></param>
+            <returns>O computador com o valor já com o acrescimo</returns>
+        </member>
+    </members>
+</doc>

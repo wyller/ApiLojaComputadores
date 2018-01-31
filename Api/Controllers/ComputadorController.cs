@@ -5,8 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Bll.Interface;
 using Bll.Implementation;
-using Dal.Dominio;
 using Dal.Model;
+using Dal.Dominio;
+using Swashbuckle.AspNetCore;
 
 namespace Api.Controllers
 {
@@ -15,6 +16,10 @@ namespace Api.Controllers
     {
         IComputadorBll PcBLL = new ComputadorBll();
 
+        /// <summary>
+        /// Buscar todos os computadores no banco
+        /// </summary>
+        /// <returns>Uma lista de computadores</returns>
         [HttpGet("all")]
         public IActionResult GetALL()
         {
@@ -22,6 +27,11 @@ namespace Api.Controllers
             return Json(pcs);
         }
 
+        /// <summary>
+        /// Busca especifica por ID
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>Um computador</returns>
         [HttpGet("{id}")]
         public IActionResult GetFind(int id)
         {
@@ -29,6 +39,12 @@ namespace Api.Controllers
             return Json(pc);
         }
 
+        /// <summary>
+        /// Adicionar um computador
+        /// </summary>
+        /// <param name="computador"></param>
+        /// 
+        /// <returns>O Computador já adicionado</returns>
         [HttpPost]
         public IActionResult PostComp([FromBody]Computador computador)
         {
@@ -36,6 +52,11 @@ namespace Api.Controllers
             return Json(pc);
         }
 
+        /// <summary>
+        /// Alterar um computador
+        /// </summary>
+        /// <param name="computador"></param>
+        /// <returns>O Computador já alterado</returns>
         [HttpPut]
         public IActionResult PutComp([FromBody]Computador computador)
         {
@@ -44,6 +65,11 @@ namespace Api.Controllers
             return Json(pc);
         }
 
+        /// <summary>
+        /// Deletar um computador pelo ID
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>O computador removido</returns>
         [HttpDelete("{id}")]
         public IActionResult DeleteComp(int id)
         {
@@ -51,14 +77,25 @@ namespace Api.Controllers
             return Json(pc);
         }
 
-        [HttpGet("avista/{id}")]
+        /// <summary>
+        /// Buscar o computador com o preço a vista com desconto de 10%
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns>O computador com o valor já com o desconto</returns>
+        [HttpPost("avista/{id}")]
         public IActionResult GetCompPrecoAVista(int id)
         {
             Computador pc = PcBLL.GetCompPrecoAVista(id);
             return Json(pc);
         }
 
-        [HttpGet("apraso/{id}/{parcelas}")]
+        /// <summary>
+        /// Buscar o computador com o preço parcelado com acrescimo de 2% por mes
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="parcelas"></param>
+        /// <returns>O computador com o valor já com o acrescimo</returns>
+        [HttpPost("apraso/{id}/{parcelas}")]
         public IActionResult GetCompPrecoAPraso(int id, int parcelas)
         {
             Computador pc = PcBLL.GetCompPrecoParcelado(id, parcelas);

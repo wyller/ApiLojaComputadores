@@ -12,3 +12,5 @@ C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp
 C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.AssemblyInfo.cs
 C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.dll
 C:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\obj\Debug\netcoreapp2.0\Api.pdb
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api\Api.xml
+c:\Users\Fepam\Desktop\Treinamento\Final Wave\TestFinal\Api\bin\Debug\netcoreapp2.0\Api.xml
